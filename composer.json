@@ -1,0 +1,6 @@
+{
+    "name": "mdsystem/open-hutt-framework",
+    "require": {
+      "ext-pdo": "*"
+    }
+}
